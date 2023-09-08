@@ -1,0 +1,37 @@
+body{
+    background-color: #A3816A;
+
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.box{
+    min-width: 400px;
+    min-height: 400px;
+    background-color: #070A52;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+p{
+    color:#D2C8C8;
+    font-family: 'Montserrat', sans-serif;
+}
+span{
+    color:#54BAB9;
+}
+ #btn{
+    padding: 10px 20px 10px 20px;
+    border-radius: 3px;
+    background: none;
+    border:3px solid white;
+    color:#D2C8C8;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
